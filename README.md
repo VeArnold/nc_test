@@ -1,14 +1,16 @@
 # nc_test
-# code written in python 3.8.0
-#
-#
-# Starting from command line
-# packages urllib3 and requests are required
-# use pip install urllib3 and pip install requests
-# or install packages manually
-# To run: python nevercode.py
-# different parameters can be managed from the main() function
-#
-#
-# To run tests: python -m unittest test_nevercode.py -b
+code written in *python 3.8.0*
+
+
+## prerequisites
+python package *'requests'* is required <br/>
+use `pip install requests`<br/>
+or install package manually
+
+## running from cmd
+app: `python nevercode.py`<br/>
+tests: `python -m unittest test_nevercode.py -b`<br/>
+
+application parameters can be managed from the *main()* function
+
 
