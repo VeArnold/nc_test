@@ -3,9 +3,9 @@
 #
 #
 # Starting from command line:
-# packages urllib3 and requests are required
-# use pip install urllib3 and pip install requests
-# or install packages manually
+# package 'requests' is required
+# use pip install requests
+# or install package manually
 # To run: python nevercode.py
 # different parameters can be managed from the main() function
 #
