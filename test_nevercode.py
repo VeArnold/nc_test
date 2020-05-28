@@ -9,7 +9,7 @@ from unittest.mock import patch
 # python 3.8.0
 
 # Running from commandline
-# pip install urllib3; pip install requests
+# pip install requests
 # or manually install packages
 # python test_nevercode.py -b (disables print output)
 

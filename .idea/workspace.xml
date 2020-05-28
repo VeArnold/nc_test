@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c20bd0-a742-4977-b153-cd96aa14be52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevercode.py" beforeDir="false" afterPath="$PROJECT_DIR$/nevercode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_nevercode.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_nevercode.py" afterDir="false" />
     </list>
@@ -168,7 +166,7 @@
       <updated>1590398324249</updated>
       <workItem from="1590398340140" duration="17831000" />
       <workItem from="1590418302780" duration="13000" />
-      <workItem from="1590418405892" duration="92272000" />
+      <workItem from="1590418405892" duration="92889000" />
     </task>
     <servers />
   </component>

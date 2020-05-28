@@ -8,7 +8,7 @@ import requests
 # python 3.8.0
 
 # Starting from command line
-# pip install urllib3; pip install requests
+# pip install requests
 # or manually install packages
 # To run: python nevercode.py
 # different parameters can be managed from the main() function
