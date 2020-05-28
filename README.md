@@ -2,7 +2,7 @@
 # code written in python 3.8.0
 #
 #
-# Starting from command line
+# Starting from command line:
 # packages urllib3 and requests are required
 # use pip install urllib3 and pip install requests
 # or install packages manually
