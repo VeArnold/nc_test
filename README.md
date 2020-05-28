@@ -1,13 +1,14 @@
 # nc_test
-# code written in python 3.8.3
+# code written in python 3.8.0
 #
 #
 # Starting from command line
-# If urllib3 is not installed: pip install urllib3
-# (however it is already installed in this repository)
+# packages urllib3 and requests are required
+# use pip install urllib3 and pip install requests
+# or install packages manually
 # To run: python nevercode.py
 # different parameters can be managed from the main() function
 #
 #
-# To run tests: python test_nevercode.py -b
-# -b disables print output
+# To run tests: python -m unittest test_nevercode.py -b
+

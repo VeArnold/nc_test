@@ -5,13 +5,14 @@ import random
 import requests
 
 # Arnold Veltmann
-# python 3.8.3
+# python 3.8.0
 
 # Starting from command line
-# If urllib3 is not installed: pip install urllib3
+# pip install urllib3; pip install requests
+# or manually install packages
 # To run: python nevercode.py
 # different parameters can be managed from the main() function
-# To run tests: python test_nevercode.py -b (disables print output)
+# To run tests: python -m unittest test_nevercode.py -b
 
 
 def get_response(url):

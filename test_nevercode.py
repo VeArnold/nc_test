@@ -6,10 +6,11 @@ from unittest.mock import patch
 
 
 # Arnold Veltmann
-# python 3.8.3
+# python 3.8.0
 
 # Running from commandline
-# pip install urllib3 if not installed
+# pip install urllib3; pip install requests
+# or manually install packages
 # python test_nevercode.py -b (disables print output)
 
 
